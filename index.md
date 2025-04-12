@@ -10,3 +10,8 @@ This exercise is under the `skills-communicate-using-markdown` repository.
 
 ![Low-pass Trimurti](https://f4.bcbits.com/img/a0476039658_10.jpg)
 
+## Adding Code Example ##
+``` javascript
+let reversed = "hello".split('').reverse().join('');
+```
+**Result: `olleh`**
