@@ -15,3 +15,10 @@ This exercise is under the `skills-communicate-using-markdown` repository.
 let reversed = "hello".split('').reverse().join('');
 ```
 **Result: `olleh`**
+
+## Making a Task List ##
+- [ ] Write clean, readable code
+- [x] Keep functions small and focused
+- [ ] Test your code regularly
+- [x] Comment and document your code
+- [ ] Fail fast
